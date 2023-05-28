@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+    color: white;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.last-row{
+    display: flex;
+
+}
+.flex-grow{
+    flex-grow: 1;
+}
